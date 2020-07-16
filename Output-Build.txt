@@ -1,0 +1,4 @@
+﻿1>------ Rebuild All started: Project: EmployeeRegistration, Configuration: Debug Any CPU ------
+1>EmployeeRegistration -> C:\Users\ROHIT PATIL\source\repos\EmployeeRegistration\EmployeeRegistration\bin\Debug\netcoreapp2.2\EmployeeRegistration.dll
+1>EmployeeRegistration -> C:\Users\ROHIT PATIL\source\repos\EmployeeRegistration\EmployeeRegistration\bin\Debug\netcoreapp2.2\EmployeeRegistration.Views.dll
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
